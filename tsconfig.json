@@ -8,7 +8,7 @@
     "rootDir": "./",
     "baseUrl": "./",
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./src/*"]
     },
     "moduleResolution": "node"
   },
