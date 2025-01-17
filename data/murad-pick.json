@@ -1,0 +1,20 @@
+[
+  { "name": "SPX6900", "symbol": "SPX", "url": "/en/coins/spx6900" },
+  { "name": "Mog Coin", "symbol": "MOG", "url": "/en/coins/mog-coin" },
+  { "name": "Gigachad", "symbol": "GIGA", "url": "/en/coins/gigachad-2" },
+  { "name": "Popcat", "symbol": "POPCAT", "url": "/en/coins/popcat" },
+  { "name": "Apu Apustaja", "symbol": "APU", "url": "/en/coins/apu-apustaja" },
+  {
+    "name": "HarryPotterObamaSonic10Inu (ETH)",
+    "symbol": "BITCOIN",
+    "url": "/en/coins/harrypotterobamasonic10inu-eth"
+  },
+  { "name": "RETARDIO", "symbol": "RETARDIO", "url": "/en/coins/retardio" },
+  {
+    "name": "American Coin",
+    "symbol": "USA",
+    "url": "/en/coins/american-coin"
+  },
+  { "name": "LOCK IN", "symbol": "LOCKIN", "url": "/en/coins/lock-in" },
+  { "name": "mini", "symbol": "MINI", "url": "/en/coins/minimini" }
+]
