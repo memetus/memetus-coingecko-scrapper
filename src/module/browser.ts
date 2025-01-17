@@ -5,7 +5,7 @@ import StealthPlugin from "puppeteer-extra-plugin-stealth";
 export const createBrowser = async () => {
   try {
     const browser = await puppeteer.launch({
-      headless: false,
+      headless: true,
     });
 
     puppeteer.use(StealthPlugin());
