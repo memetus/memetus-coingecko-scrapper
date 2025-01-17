@@ -1,0 +1,16 @@
+[
+  { "name": "GMBase", "symbol": "GMB", "category": "animal-duck" },
+  { "name": "Stabby Duck", "symbol": "$STABBY", "category": "animal-duck" },
+  { "name": "Ducky", "symbol": "DUCKY", "category": "animal-duck" },
+  { "name": "Harold", "symbol": "HAROLD", "category": "animal-duck" },
+  { "name": "Dolan Duk", "symbol": "DOLAN", "category": "animal-duck" },
+  { "name": "dub duck", "symbol": "$DUB", "category": "animal-duck" },
+  {
+    "name": "Wrinkle The Duck",
+    "symbol": "WRINKLE",
+    "category": "animal-duck"
+  },
+  { "name": "Resistance Duck", "symbol": "REDU", "category": "animal-duck" },
+  { "name": "DuckCoin", "symbol": "DUCK", "category": "animal-duck" },
+  { "name": "Tony McDuck", "symbol": "TONY", "category": "animal-duck" }
+]

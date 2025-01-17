@@ -1,9 +1,9 @@
-import { readFile } from 'fs';
-import { writeFile } from 'fs';
-import { promises as fs } from 'fs';
+import { readFile } from "fs";
+import { writeFile } from "fs";
+import { promises as fs } from "fs";
 
 export const executeRead = async (path: string) => {
-  readFile(path, 'utf-8', (err, data) => {
+  return readFile(path, "utf-8", (err, data) => {
     if (err) {
       throw new Error(err.message);
     }
@@ -14,7 +14,7 @@ export const executeRead = async (path: string) => {
 
 export const executeReadAsync = async (path: string) => {
   try {
-    const value = await fs.readFile(path, 'utf-8');
+    const value = await fs.readFile(path, "utf-8");
 
     return value;
   } catch (err) {
@@ -32,7 +32,7 @@ export const executeWrite = async (path: string, data: string) => {
 
 export const executeWriteAsync = async (path: string, data: string) => {
   try {
-    const value = await fs.writeFile(path, data, 'utf-8');
+    const value = await fs.writeFile(path, data, "utf-8");
 
     return value;
   } catch (err) {

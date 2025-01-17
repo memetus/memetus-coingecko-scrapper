@@ -1,0 +1,44 @@
+[
+  { "name": "PYTHIA", "symbol": "PYTHIA", "category": "desci" },
+  { "name": "DrPepe.ai", "symbol": "BRYAN", "category": "desci" },
+  { "name": "Big Pharmai", "symbol": "DRUGS", "category": "desci" },
+  { "name": "sci-hub", "symbol": "SCIHUB", "category": "desci" },
+  { "name": "Red Genesis", "symbol": "$R3D", "category": "desci" },
+  { "name": "waterbear", "symbol": "WATERBEAR", "category": "desci" },
+  { "name": "TrackedBio", "symbol": "TRACKEDBIO", "category": "desci" },
+  { "name": "DNA", "symbol": "DNA", "category": "desci" },
+  { "name": "CRT AI Network", "symbol": "CRTAI", "category": "desci" },
+  { "name": "tardigrade", "symbol": "TARDI", "category": "desci" },
+  { "name": "Transhuman Coin", "symbol": "THC", "category": "desci" },
+  { "name": "Antitoken", "symbol": "ANTI", "category": "desci" },
+  { "name": "Metformin", "symbol": "MET", "category": "desci" },
+  { "name": "Protoken", "symbol": "PRO", "category": "desci" },
+  { "name": "GLP1", "symbol": "GLP1", "category": "desci" },
+  { "name": "Hempy", "symbol": "HEMPY", "category": "desci" },
+  { "name": "Longevity AI", "symbol": "LONGAI", "category": "desci" },
+  { "name": "Doctor Lui", "symbol": "LUI", "category": "desci" },
+  { "name": "Bio Acceleration", "symbol": "BIO/ACC", "category": "desci" },
+  { "name": "RNA", "symbol": "RNA", "category": "desci" },
+  { "name": "Science Cult Mascot", "symbol": "HELA", "category": "desci" },
+  { "name": "HYPERBOREAL INFINITY", "symbol": "HYPR∞", "category": "desci" },
+  { "name": "Molecule", "symbol": "MOLECULE", "category": "desci" },
+  {
+    "name": "4-(2-Aminoethyl)benzene-1,2-diol",
+    "symbol": "DOPAMINE",
+    "category": "desci"
+  },
+  { "name": "CRISPR", "symbol": "CRISP", "category": "desci" },
+  { "name": "longevity", "symbol": "LONGEVITY", "category": "desci" },
+  { "name": "STAMP", "symbol": "STAMP", "category": "desci" },
+  { "name": "Bitchemical Token", "symbol": "BCHEC", "category": "desci" },
+  {
+    "name": "Urolithin A",
+    "symbol": "$URO",
+    "category": "desci"
+  },
+  {
+    "name": "Rifampicin",
+    "symbol": "$RIF",
+    "category": "desci"
+  }
+]

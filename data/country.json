@@ -1,0 +1,13 @@
+[
+  { "name": "American Coin", "symbol": "USA", "category": "country" },
+  { "name": "ArgentinaCoin", "symbol": "ARG", "category": "country" },
+  { "name": "France Coin", "symbol": "FRA", "category": "country" },
+  { "name": "Japan Coin", "symbol": "JAPAN", "category": "country" },
+  { "name": "Spain Coin", "symbol": "ESP", "category": "country" },
+  { "name": "Italian Coin", "symbol": "ITA", "category": "country" },
+  { "name": "Based USA", "symbol": "USA", "category": "country" },
+  { "name": "Netherlands Coin", "symbol": "NED", "category": "country" },
+  { "name": "South Korea Coin", "symbol": "KOREA", "category": "country" },
+  { "name": "Germany Coin", "symbol": "GER", "category": "country" },
+  { "name": "England Coin", "symbol": "ENG", "category": "country" }
+]
