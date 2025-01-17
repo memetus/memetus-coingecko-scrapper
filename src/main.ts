@@ -3,7 +3,7 @@ import { startScrape } from "@/core/scrape/scrape-coingecko";
 
 export const logger = createLogger("memetus-module");
 
-const main = () => {
+const main = async () => {
   startScrape();
 };
 
